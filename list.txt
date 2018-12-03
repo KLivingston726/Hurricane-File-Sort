@@ -1,0 +1,146 @@
+
+                                              STORM SUMMARY SHEET
+
+Name                  ID           Life          Date         Average           Average          Tornadoes         Storm
+                                  in days                   wind speed         rain fall          spawned          level
+
+Matt           	       162          8            1983             121               7               9               3 
+Smith          	       194          6            1984              63             1.5               1               0 
+Kathleen       	       173          4            1998              74             3.5               0               0 
+Big Steve      	       202          9            1990             146               9              10               4 
+Sean Fill      	       136          7            1964             140               4               2               4 
+Homer          	       402          5            1984              83             5.5               4               1 
+Steven         	       327          7            1986             157             6.5               4               5 
+Guss           	       143          4            1991              98             5.5               4               2 
+Jimm           	       533          4            1997              81               4               4               1 
+Ben            	       577          5            1996             116               6               0               3 
+Mary Lou       	       682          8            1902             143             7.5               4               4 
+Lee            	       192          7            1911             116             3.5               0               3 
+Mary Beth      	       415          5            1952             135             4.5               2               4 
+Caroline       	       122          2            1997              79             1.5               0               1 
+Barbara        	       450          5            1992              83             2.5               0               1 
+Mad Max        	       501          5            1900             123               3               2               3 
+keith          	       555          7            1961              95               2               1               2 
+
+Total number of records = 17
+Total number of hurricanes = 15
+Total number of tropical storms = 2
+
+                                          Hurricane Level 1
+
+Name                  ID           Life          Date         Average           Average          Tornadoes
+                                  in days                   wind speed         rain fall          spawned
+
+Barbara        	       450          5            1992              83             2.5               0 
+Caroline       	       122          2            1997              79             1.5               0 
+Jimm           	       533          4            1997              81               4               4 
+Homer          	       402          5            1984              83             5.5               4 
+
+
+Total number of Level 1 hurricanes is 4.
+Average life span in days of level 1 hurricanes is 4.
+Average rain fall for Level 1 hurricanes is 3.375.
+Average tornadoes spawned for level 1 hurricanes is 2.
+Average wind speed for level 1 hurricanes is 81.5.
+
+
+                                          Hurricane Level 2
+
+Name                  ID           Life          Date         Average           Average          Tornadoes
+                                  in days                   wind speed         rain fall          spawned
+
+keith          	       555          7            1961              95               2               1 
+Guss           	       143          4            1991              98             5.5               4 
+
+
+Total number of Level 2 hurricanes is 2.
+Average life span in days of level 2 hurricanes is 5.5.
+Average rain fall for Level 2 hurricanes is 3.75.
+Average tornadoes spawned for level 2 hurricanes is 2.5.
+Average wind speed for level 2 hurricanes is 96.5.
+
+
+                                          Hurricane Level 3
+
+Name                  ID           Life          Date         Average           Average          Tornadoes
+                                  in days                   wind speed         rain fall          spawned
+
+Mad Max        	       501          5            1900             123               3               2 
+Lee            	       192          7            1911             116             3.5               0 
+Ben            	       577          5            1996             116               6               0 
+Matt           	       162          8            1983             121               7               9 
+
+
+Total number of Level 3 hurricanes is 4.
+Average life span in days of level 3 hurricanes is 6.25.
+Average rain fall for Level 3 hurricanes is 4.875.
+Average tornadoes spawned for level 3 hurricanes is 2.75.
+Average wind speed for level 3 hurricanes is 119.
+
+
+                                          Hurricane Level 4
+
+Name                  ID           Life          Date         Average           Average          Tornadoes
+                                  in days                   wind speed         rain fall          spawned
+
+Mary Beth      	       415          5            1952             135             4.5               2 
+Mary Lou       	       682          8            1902             143             7.5               4 
+Sean Fill      	       136          7            1964             140               4               2 
+Big Steve      	       202          9            1990             146               9              10 
+
+
+Total number of Level 4 hurricanes is 4.
+Average life span in days of level 4 hurricanes is 7.25.
+Average rain fall for Level 4 hurricanes is 6.25.
+Average tornadoes spawned for level 4 hurricanes is 4.5.
+Average wind speed for level 4 hurricanes is 141.
+
+
+                                          Hurricane Level 5
+
+Name                  ID           Life          Date         Average           Average          Tornadoes
+                                  in days                   wind speed         rain fall          spawned
+
+Steven         	       327          7            1986             157             6.5               4 
+
+
+Total number of Level 5 hurricanes is 1.
+Average life span in days of level 5 hurricanes is 7.
+Average rain fall for Level 5 hurricanes is 6.5.
+Average tornadoes spawned for level 5 hurricanes is 4.
+Average wind speed for level 5 hurricanes is 157.
+
+
+                        Exception Report 1 
+
+The Following Tropical Storms were not listed in the Tropical Storm data list.
+
+Name                   ID
+
+Caroline       	       122 
+Sean Fill      	       136 
+Matt           	       162 
+
+                        Exception Report 2 
+
+The Following Tropical Storms were not listed in the Tropical Storm data list.
+
+Name                   ID
+
+Smith          	       194 
+Kathleen       	       173 
+
+Summary Statistics
+
+Wind average of all hurricanes 	104
+Highest wind average    	157
+Lowest wind average     	75
+Standard deviation      	28.72
+
+Number of Hurricanes in each level
+
+level   1   	4
+level   2   	2
+level   3   	4
+level   4   	4
+level   5   	1

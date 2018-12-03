@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513017521 source:c:\users\keith\documents\codeblocks\proj_4_kjl\proj4_kjl.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<iomanip>
+	<cctype>
+	<string.h>
+
